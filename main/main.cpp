@@ -1,5 +1,8 @@
 #include "iri.hpp"
-#include <iostream>
+#include <iostream> //cin cout
+#include <stdlib.h> //memoria dinamica
+#include <string>
+
 
 int main() {
 

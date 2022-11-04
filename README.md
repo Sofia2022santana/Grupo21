@@ -1,11 +1,11 @@
-# TP Final - Grupo `XX`
+# TP Final - Grupo `21`
 ### Consigna
     Consigna del TP Final
 ### Descripción
     Descripción del proyecto
 ### Integrantes
-- Integrante 1
-- Integrante 2
+- Rodella Candela
+- Santana Sofia
 - Integrante 3
 - Integrante 4
 ### Compilaciones

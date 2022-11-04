@@ -4,7 +4,6 @@
 #include <string>
 
 
-struct 
 
 int main() {
 

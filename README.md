@@ -6,8 +6,8 @@
 ### Integrantes
 - Rodella Candela
 - Santana Sofia
-- Integrante 3
-- Integrante 4
+- 
+- 
 ### Compilaciones
 [![Ubuntu](https://github.com/UF-IRI/TP_Final/actions/workflows/ubuntu.yml/badge.svg)](https://github.com/UF-IRI/TP_Final/actions/workflows/ubuntu.yml)
 ### Unit Tests
